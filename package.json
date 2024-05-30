@@ -1,0 +1,19 @@
+{
+  "name": "w2num",
+  "version": "1.0.8",
+  "description": "w2num is a lightweight npm package that converts words representing numbers into their numerical equivalents.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "word2num",
+    "number",
+    "word",
+    "converter",
+    "wordNumberConverter",
+    "w2num"
+  ],
+  "author": "https://github.com/thukyaw11",
+  "license": "ISC"
+}
