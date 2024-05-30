@@ -131,5 +131,4 @@ class w2num {
     }
   }
 }
-
 module.exports = w2num;
