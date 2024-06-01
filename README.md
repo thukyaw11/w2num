@@ -9,10 +9,20 @@ w2num is a lightweight npm package that converts words representing numbers into
 - Configurable options for customization and flexibility.
 - Lightweight and optimized for performance.
 - Compatible with Node.js environments.
+- Support minus case
 
 **Installation:**
+### npm
 ```javascript
 npm install w2num
+
+```
+
+### cdn
+For ease of use, you can simply add cdn link supported by [unpkg](https://unpkg.com/w2num@1.1.0/index.js)
+
+```javascript
+<script src="https://unpkg.com/w2num@1.1.0/index.js"></script>
 ```
 
 **Usage:**
